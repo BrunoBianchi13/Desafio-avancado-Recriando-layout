@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Desafio é recriar uma aplicação, a partir de um layout.
 
-- [Acesse o projeto finalizado, online](https://brunobianchi13.github.io/Desafio-RecriandoLayout/)
+- [Acesse o projeto finalizado, online](https://brunobianchi13.github.io/Desafio-avancado-Recriando-layout/)
 - [Acesse o Layout no Figma](https://www.figma.com/file/MA9Vm4OmFcIKKiSXwIYDAn/Explorer-(Copy)?node-id=0%3A1&mode=dev)
 
 ---
