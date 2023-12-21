@@ -11,7 +11,6 @@ Desafio proposto pela Rocketseat, com objetivo de recriar Layout pronto no Figma
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 <p align="center">
   <img alt="" src="./imagens/readmeimg.png">
